@@ -1,5 +1,5 @@
-name = "karim"
-print(name)
+# name = "karim"
+# print(name)
 
 # sudent = "hassan"
 # print(sudent) 
@@ -14,35 +14,35 @@ print(name)
 # print(NameOfStudent)
 
 # # int 
-age=19
-print(age)
+# age=19
+# print(age)
 
-# #float
-gpa=3.8
-print("my gpa is  "+ str(gpa))
+# # #float
+# gpa=3.8
+# print("my gpa is  "+ str(gpa))
 
 # #string
 # name="kareem"
 # print(name)
 
-name = "sara"
-print("hallo"+name)
+# name = "sara"
+# print("hallo"+name)
 
-print(22+33)
+# print(22+33)
 
-qoute ="\"kemo\""
-print(qoute)
+# qoute ="\"kemo\""
+# print(qoute)
 
 # print("hello\n my name is kemo")
 
-print(33-22)
-print(33*66)
-print(33/66)
+# print(33-22)
+# print(33*66)
+# print(33/66)
 
-num1=10
-num2=20
-sum=num1+num2
-print(sum)
+# num1=10
+# num2=20
+# sum=num1+num2
+# print(sum)
 
 # print(2000%6)
 
@@ -50,13 +50,13 @@ print(sum)
 # gpa=3.8
 # print(type(gpa))
 
-name="kareem"
-print(name.upper())
-print(name)
+# name="kareem"
+# print(name.upper())
+# print(name)
 
-name="kareem mohammad"
-print(name.capitalize())
-print(name.title())
+# name="kareem mohammad"
+# print(name.capitalize())
+# print(name.title())
 
 # str()
 # type()
@@ -64,32 +64,32 @@ print(name.title())
 # lower()
 # capitalize()
 # title()
-# append()
+# # append()
 
-name=input("enter your name :")
-print("your name is "+name )
-age=int(input("enter your age"))
-print("your age is "+str(age))
-gpa=float(input("enter your gpa"))
-print("your gpa is "+str(gpa))
+# name=input("enter your name :")
+# print("your name is "+name )
+# age=int(input("enter your age"))
+# print("your age is "+str(age))
+# gpa=float(input("enter your gpa"))
+# print("your gpa is "+str(gpa))
 
-print("| welcome to calculator app |\n")
-num1=float(input("first number :"))
-num2=float(input("second number :"))
-print("|==================|")
-print("adding:"+str(num1+num2) )
-print("dec:"+str(num1-num2) )
-print("mult:"+str(num1*num2) )
-print("div:"+str(num1/num2) )
-print("des:"+str(num1%num2) )
+# print("| welcome to calculator app |\n")
+# num1=float(input("first number :"))
+# num2=float(input("second number :"))
+# print("|==================|")
+# print("adding:"+str(num1+num2) )
+# print("dec:"+str(num1-num2) )
+# print("mult:"+str(num1*num2) )
+# print("div:"+str(num1/num2) )
+# print("des:"+str(num1%num2) )
 
 # result =(10>=9)
 # print(result)
 
-x=5
-x=x+5
-x+=15
-print(x)
+# x=5
+# x=x+5
+# x+=15
+# print(x)
 
 # name="kemo"
 # if name=="kareem":
@@ -598,8 +598,8 @@ print(x)
 # circ=2*7*pi()
 # print(circ)
 
-t=()
-print(type(t))
+# t=()
+# print(type(t))
 
 
 
@@ -672,6 +672,63 @@ print(type(t))
 # print(tup[2])
 # tup2=tup+(23,24)
 # print(tup2)
+
+# grade = [75,82,60,49,90]
+# passed =0
+# for grd in grade:
+#     if grd>=50:
+#         passed +=1
+# print(passed)
+
+# num=int(input("enter your num "))
+# total=0
+# for x in range (1,num+1):
+#     total=total+x
+# print(total)
+
+# num=int(input("enter the num "))
+# total=0
+# for x in range (1,num+1):
+#     total+=x
+# print(total)
+
+# i=0
+# while i<5:
+#     i+=1
+#     print("kemo")
+# print("momkemo")
+
+
+
+
+
+# count=0
+# while(count<5):
+#     print(count)
+#     count+=1
+# else:
+#     print("count value reached %d"%(count))
+
+# i=0
+# while i<=10:
+#     i+=1
+#     if i%2==0:
+#         print(i)
+      
+
+i=0
+while i<=10:
+    print(i)
+    i+=2
+    break
+
+
+
+
+
+
+
+
 
 
 
